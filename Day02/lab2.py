@@ -2,7 +2,6 @@
 # Write a function that accepts two arguments (length, start) to
 # generate an array of a specific length filled with integer numbers
 # increased by one from start.
-from Day01.q1 import count
 
 def generate_arr(length,start):
     arr = []
