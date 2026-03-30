@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="restOflab1 and day02 of python course">
+    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="update on lab1">
       <change afterPath="$PROJECT_DIR$/Day03/lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/read_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/save_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01/restOfLab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/restOfLab1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,42 +40,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.dayOneLecTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lec2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.restOfLab1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dayOneLecTest.executor": "Run",
+    "Python.lab2.executor": "Run",
+    "Python.lab3.executor": "Run",
+    "Python.lec2.executor": "Run",
+    "Python.login.executor": "Run",
+    "Python.q1.executor": "Run",
+    "Python.q2.executor": "Run",
+    "Python.q3.executor": "Run",
+    "Python.q4.executor": "Run",
+    "Python.q5.executor": "Run",
+    "Python.q6.executor": "Run",
+    "Python.registration.executor": "Run",
+    "Python.restOfLab1.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.32098.74" />
-        <option value="bundled-python-sdk-1cd77e80b48f-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.32098.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -86,7 +95,8 @@
       <workItem from="1774348068950" duration="6754000" />
       <workItem from="1774769623112" duration="30733000" />
       <workItem from="1774819862889" duration="661000" />
-      <workItem from="1774856767891" duration="2632000" />
+      <workItem from="1774856767891" duration="15043000" />
+      <workItem from="1774889187666" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="restOflab1 and day02 of python course">
       <option name="closed" value="true" />
@@ -96,15 +106,49 @@
       <option name="project" value="LOCAL" />
       <updated>1774819917291</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update on lab1">
+      <option name="closed" value="true" />
+      <created>1774872240293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774872240293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update on lab1">
+      <option name="closed" value="true" />
+      <created>1774872658320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774872658320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="restOflab1 and day02 of python course" />
-    <option name="LAST_COMMIT_MESSAGE" value="restOflab1 and day02 of python course" />
+    <MESSAGE value="update on lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update on lab1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -119,15 +163,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonCourseITI$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1774354672492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$lec2.coverage" NAME="lec2 Coverage Results" MODIFIED="1774786970646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1774885966786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$restOfLab1.coverage" NAME="restOfLab1 Coverage Results" MODIFIED="1774872616723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$registration.coverage" NAME="registration Coverage Results" MODIFIED="1774885650156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$test.coverage" NAME="test Coverage Results" MODIFIED="1774815743854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1774769951261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$q5.coverage" NAME="q5 Coverage Results" MODIFIED="1774355088946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$dayOneLecTest.coverage" NAME="dayOneLecTest Coverage Results" MODIFIED="1774341981665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1774783588710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$q6.coverage" NAME="q6 Coverage Results" MODIFIED="1774785309797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
-    <SUITE FILE_PATH="coverage/PythonCourseITI$lec2.coverage" NAME="lec2 Coverage Results" MODIFIED="1774786970646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
-    <SUITE FILE_PATH="coverage/PythonCourseITI$restOfLab1.coverage" NAME="restOfLab1 Coverage Results" MODIFIED="1774815116298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
-    <SUITE FILE_PATH="coverage/PythonCourseITI$test.coverage" NAME="test Coverage Results" MODIFIED="1774815743854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
-    <SUITE FILE_PATH="coverage/PythonCourseITI$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1774769951261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1774354688167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
-    <SUITE FILE_PATH="coverage/PythonCourseITI$q5.coverage" NAME="q5 Coverage Results" MODIFIED="1774355088946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1774819065586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$login.coverage" NAME="login Coverage Results" MODIFIED="1774885884420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
   </component>
 </project>

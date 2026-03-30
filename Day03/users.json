@@ -1,0 +1,16 @@
+[
+    {
+        "first_name": "zahwa",
+        "last_name": "kandeel",
+        "email": "zahwa@iti.com",
+        "password": "Zahwa@22",
+        "phone": "01026370422"
+    },
+    {
+        "first_name": "ahmed",
+        "last_name": "mohamed",
+        "email": "ahmed@gmail.com",
+        "password": "Ahmed@2210",
+        "phone": "01234567892"
+    }
+]
