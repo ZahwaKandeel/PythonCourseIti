@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day01/restOfLab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/lec2.py" afterDir="false" />
+    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="restOflab1 and day02 of python course">
+      <change afterPath="$PROJECT_DIR$/Day03/lab3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01/restOfLab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/restOfLab1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,37 +36,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.dayOneLecTest.executor": "Run",
-    "Python.lab2.executor": "Run",
-    "Python.lec2.executor": "Run",
-    "Python.q1.executor": "Run",
-    "Python.q2.executor": "Run",
-    "Python.q3.executor": "Run",
-    "Python.q4.executor": "Run",
-    "Python.q5.executor": "Run",
-    "Python.q6.executor": "Run",
-    "Python.restOfLab1.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.dayOneLecTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lec2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.restOfLab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,11 +85,26 @@
       <workItem from="1774340050561" duration="3143000" />
       <workItem from="1774348068950" duration="6754000" />
       <workItem from="1774769623112" duration="30733000" />
+      <workItem from="1774819862889" duration="661000" />
+      <workItem from="1774856767891" duration="2632000" />
     </task>
+    <task id="LOCAL-00001" summary="restOflab1 and day02 of python course">
+      <option name="closed" value="true" />
+      <created>1774819917291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774819917291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restOflab1 and day02 of python course" />
+    <option name="LAST_COMMIT_MESSAGE" value="restOflab1 and day02 of python course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

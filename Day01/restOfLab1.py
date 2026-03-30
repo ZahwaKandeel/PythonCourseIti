@@ -12,14 +12,19 @@ for index, char in enumerate(arr):
 # Write a program that generate a multiplication table from 1 to the
 # number passed
 
-num = int(input("Enter a number: "))
+num = input("Enter a number: ")
 result = []
 
-for i in range (1, num + 1):
-    row = []
-    for j in range (1, i + 1):
-        row.append(i * j)
-    result.append(row)
+if num.isdigit():
+    num = int(num)
+    for i in range (1, num + 1):
+        row = []
+        for j in range (1, i + 1):
+            row.append(i * j)
+        result.append(row)
+else:
+    print("Invalid input! Please enter a number")
+
 
 print(result)
 
