@@ -25,13 +25,16 @@ if num.isdigit():
 else:
     print("Invalid input! Please enter a number")
 
-
 print(result)
 
 #Q8
 #Write a program that build a Mario pyramid like below
 
-num = int(input("Please enter a number: "))
+num = input("Please enter a number: ")
 
-for i in range (1, num + 1):
-    print(" " * (num - i) + "*" * i)
+if num.isdigit():
+    num = int(num)
+    for i in range (1, num + 1):
+        print(" " * (num - i) + "*" * i)
+else:
+    print("Invalid input! Please enter a number")
