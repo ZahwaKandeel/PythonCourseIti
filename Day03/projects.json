@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1774987796127,
+        "title": "The project",
+        "details": "My project is for all the developers career, for full stack developers",
+        "target": 250000,
+        "start_date": "2026-02-22",
+        "end_date": "2026-05-22"
+    },
+    {
+        "id": 1774988035458,
+        "title": "Project python",
+        "details": "Lorem Ipsum is placeholder text commonly used in the graphic",
+        "target": 2900,
+        "start_date": "2026-02-12",
+        "end_date": "2026-04-13"
+    }
+]

@@ -1,3 +1,18 @@
 [
-
+    {
+        "id": "616917bf-2d30-11f1-a700-8c04ba3e7b08",
+        "first_name": "zahwa",
+        "last_name": "kandeel",
+        "email": "zahwa@gmail.com",
+        "password": "Zahwa@22",
+        "phone": "01026370422"
+    },
+    {
+        "id": "09f813b9-2d3e-11f1-8d61-8c04ba3e7b08",
+        "first_name": "mohamed",
+        "last_name": "ahmed",
+        "email": "ahmed@iti.com",
+        "password": "Ahmed@888",
+        "phone": "01009996512"
+    }
 ]

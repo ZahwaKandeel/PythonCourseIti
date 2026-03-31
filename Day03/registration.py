@@ -1,7 +1,7 @@
 import re
 import uuid
-from Day03.read_data import read_data
-from Day03.save_data import save_data
+from Day03.read_from_json import read_data
+from Day03.save_to_json import save_data
 
 
 def valid_name(name):

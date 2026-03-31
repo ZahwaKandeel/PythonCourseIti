@@ -1,4 +1,4 @@
-from Day03.read_data import read_data
+from Day03.read_from_json import read_data
 
 def login():
     users = read_data()
@@ -8,6 +8,7 @@ def login():
 
     for user in users:
         if user['email'] == email and user['password'] == password:
+            print("login successful")
             print(f"Welcome {user['first_name']}")
             return True
 

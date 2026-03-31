@@ -7,3 +7,9 @@ def save_data(users):
     except Exception as e:
         return []
 
+def save_project(projects):
+    try:
+        with open('projects.json', 'w') as f:
+            json.dump(projects, f, indent = 4)
+    except Exception as e:
+        return []

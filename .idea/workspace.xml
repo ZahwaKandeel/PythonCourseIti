@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="lab4 added and update in lab3">
+    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="lec4">
+      <change afterPath="$PROJECT_DIR$/Day03/createProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/viewProjects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonCourseITI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonCourseITI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/read_from_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/registration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/save_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/save_to_json.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day03/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/users.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -49,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.createProject.executor": "Run",
     "Python.dayOneLecTest.executor": "Run",
     "Python.lab2.executor": "Run",
     "Python.lab3.executor": "Run",
@@ -67,6 +79,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -106,6 +119,9 @@
       <workItem from="1774856767891" duration="15043000" />
       <workItem from="1774889187666" duration="2719000" />
       <workItem from="1774940877800" duration="13875000" />
+      <workItem from="1774979993575" duration="894000" />
+      <workItem from="1774981535181" duration="8435000" />
+      <workItem from="1774989985535" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="restOflab1 and day02 of python course">
       <option name="closed" value="true" />
@@ -155,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774958758887</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add id to registeration">
+      <option name="closed" value="true" />
+      <created>1774963329797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774963329797</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lec4">
+      <option name="closed" value="true" />
+      <created>1774963459867</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774963459867</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +215,9 @@
     <MESSAGE value="update on lab1" />
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4 added and update in lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4 added and update in lab3" />
+    <MESSAGE value="add id to registeration" />
+    <MESSAGE value="lec4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lec4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -197,13 +231,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonCourseITI$createProject.coverage" NAME="createProject Coverage Results" MODIFIED="1774987154953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$q6.coverage" NAME="q6 Coverage Results" MODIFIED="1774785309797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$lec4.coverage" NAME="lec4 Coverage Results" MODIFIED="1774949281826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day04" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$test.coverage" NAME="test Coverage Results" MODIFIED="1774815743854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1774354688167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$lec2.coverage" NAME="lec2 Coverage Results" MODIFIED="1774786970646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1774819065586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day02" />
-    <SUITE FILE_PATH="coverage/PythonCourseITI$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1774959864060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
+    <SUITE FILE_PATH="coverage/PythonCourseITI$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1774990092085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$restOfLab1.coverage" NAME="restOfLab1 Coverage Results" MODIFIED="1774872616723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$read_data.coverage" NAME="read_data Coverage Results" MODIFIED="1774956652894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day03" />
     <SUITE FILE_PATH="coverage/PythonCourseITI$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1774354672492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01" />
