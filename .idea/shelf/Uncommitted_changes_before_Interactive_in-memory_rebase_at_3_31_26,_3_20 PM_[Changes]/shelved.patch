@@ -1,0 +1,118 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a08a1fd3-1193-485a-801e-b55dbe9be32d\" name=\"Changes\" comment=\"lab4 added and update in lab3\">\n      <change beforePath=\"$PROJECT_DIR$/Day03/users.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Day03/users.json\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;ZahwaKandeel&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;git@github.com:ZahwaKandeel/PythonCourseIti.git&quot;,\n    &quot;accountId&quot;: &quot;fd4db8e2-a461-41a5-bb79-979dcc839f0d&quot;\n  }\n}</component>\n  <component name=\"McpProjectServerCommands\">\n    <commands />\n    <urls />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"3BNqoMPlAvDHE0QrXcUFounaFlP\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"Python.dayOneLecTest.executor\": \"Run\",\n    \"Python.lab2.executor\": \"Run\",\n    \"Python.lab3.executor\": \"Run\",\n    \"Python.lec2.executor\": \"Run\",\n    \"Python.lec4.executor\": \"Run\",\n    \"Python.login.executor\": \"Run\",\n    \"Python.q1.executor\": \"Run\",\n    \"Python.q2.executor\": \"Run\",\n    \"Python.q3.executor\": \"Run\",\n    \"Python.q4.executor\": \"Run\",\n    \"Python.q5.executor\": \"Run\",\n    \"Python.q6.executor\": \"Run\",\n    \"Python.read_data.executor\": \"Run\",\n    \"Python.registration.executor\": \"Run\",\n    \"Python.restOfLab1.executor\": \"Run\",\n    \"Python.test.executor\": \"Run\",\n    \"RunOnceActivity.MCP Project settings loaded\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"ai.playground.ignore.import.keys.banner.in.settings\": \"true\",\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"junie.onboarding.icon.badge.shown\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\n    \"to.speed.mode.migration.done\": \"true\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340\" />\n        <option value=\"bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a08a1fd3-1193-485a-801e-b55dbe9be32d\" name=\"Changes\" comment=\"\" />\n      <created>1774340049382</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1774340049382</updated>\n      <workItem from=\"1774340050561\" duration=\"3143000\" />\n      <workItem from=\"1774348068950\" duration=\"6754000\" />\n      <workItem from=\"1774769623112\" duration=\"30733000\" />\n      <workItem from=\"1774819862889\" duration=\"661000\" />\n      <workItem from=\"1774856767891\" duration=\"15043000\" />\n      <workItem from=\"1774889187666\" duration=\"2719000\" />\n      <workItem from=\"1774940877800\" duration=\"13875000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"restOflab1 and day02 of python course\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1774819917291</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1774819917291</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"update on lab1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1774872240293</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1774872240293</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"update on lab1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1774872658320</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1774872658320</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"lab3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1774890133824</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1774890133825</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"lab4 added and update in lab3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1774956829314</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1774956829314</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"lab4 added and update in lab3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1774958758887</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1774958758887</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\n                <map>\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"restOflab1 and day02 of python course\" />\n    <MESSAGE value=\"update on lab1\" />\n    <MESSAGE value=\"lab3\" />\n    <MESSAGE value=\"lab4 added and update in lab3\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"lab4 added and update in lab3\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$PROJECT_DIR$/dayOneLecTest.py</url>\n          <line>8</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$q6.coverage\" NAME=\"q6 Coverage Results\" MODIFIED=\"1774785309797\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$lec4.coverage\" NAME=\"lec4 Coverage Results\" MODIFIED=\"1774949281826\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day04\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$test.coverage\" NAME=\"test Coverage Results\" MODIFIED=\"1774815743854\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day02\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$q3.coverage\" NAME=\"q3 Coverage Results\" MODIFIED=\"1774354688167\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$lec2.coverage\" NAME=\"lec2 Coverage Results\" MODIFIED=\"1774786970646\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day02\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$lab2.coverage\" NAME=\"lab2 Coverage Results\" MODIFIED=\"1774819065586\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day02\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$lab3.coverage\" NAME=\"lab3 Coverage Results\" MODIFIED=\"1774959864060\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day03\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$restOfLab1.coverage\" NAME=\"restOfLab1 Coverage Results\" MODIFIED=\"1774872616723\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$read_data.coverage\" NAME=\"read_data Coverage Results\" MODIFIED=\"1774956652894\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day03\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$q2.coverage\" NAME=\"q2 Coverage Results\" MODIFIED=\"1774354672492\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$q1.coverage\" NAME=\"q1 Coverage Results\" MODIFIED=\"1774769951261\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day02\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$q5.coverage\" NAME=\"q5 Coverage Results\" MODIFIED=\"1774355088946\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$dayOneLecTest.coverage\" NAME=\"dayOneLecTest Coverage Results\" MODIFIED=\"1774341981665\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$registration.coverage\" NAME=\"registration Coverage Results\" MODIFIED=\"1774958544876\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day03\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$q4.coverage\" NAME=\"q4 Coverage Results\" MODIFIED=\"1774783588710\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day01\" />\n    <SUITE FILE_PATH=\"coverage/PythonCourseITI$login.coverage\" NAME=\"login Coverage Results\" MODIFIED=\"1774885884420\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Day03\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b224ba7fa4e20e6176772675ed7b006d6058d428)
++++ b/.idea/workspace.xml	(date 1774963186134)
+@@ -46,44 +46,44 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.dayOneLecTest.executor": "Run",
+-    "Python.lab2.executor": "Run",
+-    "Python.lab3.executor": "Run",
+-    "Python.lec2.executor": "Run",
+-    "Python.lec4.executor": "Run",
+-    "Python.login.executor": "Run",
+-    "Python.q1.executor": "Run",
+-    "Python.q2.executor": "Run",
+-    "Python.q3.executor": "Run",
+-    "Python.q4.executor": "Run",
+-    "Python.q5.executor": "Run",
+-    "Python.q6.executor": "Run",
+-    "Python.read_data.executor": "Run",
+-    "Python.registration.executor": "Run",
+-    "Python.restOfLab1.executor": "Run",
+-    "Python.test.executor": "Run",
+-    "RunOnceActivity.MCP Project settings loaded": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+-    "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "main",
+-    "junie.onboarding.icon.badge.shown": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+-    "to.speed.mode.migration.done": "true",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;Python.dayOneLecTest.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lab3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lec2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lec4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.login.executor&quot;: &quot;Run&quot;,
++    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
++    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
++    &quot;Python.read_data.executor&quot;: &quot;Run&quot;,
++    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
++    &quot;Python.restOfLab1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.test.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
++    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
++    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
++    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -105,7 +105,7 @@
+       <workItem from="1774819862889" duration="661000" />
+       <workItem from="1774856767891" duration="15043000" />
+       <workItem from="1774889187666" duration="2719000" />
+-      <workItem from="1774940877800" duration="13875000" />
++      <workItem from="1774940877800" duration="14906000" />
+     </task>
+     <task id="LOCAL-00001" summary="restOflab1 and day02 of python course">
+       <option name="closed" value="true" />
+@@ -155,7 +155,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1774958758887</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="lab4 added and update in lab3">
++      <option name="closed" value="true" />
++      <created>1774961889828</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1774961889828</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
