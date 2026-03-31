@@ -1,4 +1,5 @@
 import re
+import uuid
 from Day03.read_data import read_data
 from Day03.save_data import save_data
 
@@ -69,6 +70,7 @@ def registration():
             break
 
     user = {
+        "id": str(uuid.uuid1()),
         "first_name": first_name,
         "last_name": last_name,
         "email": email,
