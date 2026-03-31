@@ -26,9 +26,7 @@ def valid_total_target():
                return target
         print("Invalid target, must be a number")
 
-def valid_date(message):
-    while True:
-        date = input(message)
+def valid_date(date):
         try:
             datetime.strptime(date, "%Y-%m-%d")
             return date
@@ -37,8 +35,15 @@ def valid_date(message):
 
 def valid_date_range():
     while True:
-        start_date = valid_date("Enter start date (YYYY-MM-DD): ")
-        end_date = valid_date("Enter end date (YYYY-MM-DD): ")
+        start_date = input("Enter start date (YYYY-MM-DD): ")
+        if not valid_date(start_date):
+            print("Invalid start date format")
+            continue
+
+        end_date = input("Enter end date (YYYY-MM-DD): ")
+        if not valid_date(end_date):
+            print("Invalid end date format")
+            continue
 
         start = datetime.strptime(start_date, "%Y-%m-%d")
         end = datetime.strptime(end_date, "%Y-%m-%d")

@@ -1,4 +1,4 @@
-from Day03.viewProjects import view_projects
+from Day03.operationsOnProjects import view_projects, delete_project, search_for_project, edit_project
 from Day03.createProject import create_project
 from Day03.registration import registration
 from Day03.login import login
@@ -29,12 +29,12 @@ def main():
                         create_project()
                     elif project_choice == 2:
                         view_projects()
-                    # elif project_choice == 3:
-                    #     edit_project()
-                    # elif project_choice == 4:
-                    #     delete_project()
-                    # elif project_choice == 5:
-                    #     search_for_project()
+                    elif project_choice == 3:
+                        edit_project()
+                    elif project_choice == 4:
+                        delete_project()
+                    elif project_choice == 5:
+                        search_for_project()
                     elif project_choice == 6:
                         break
                     else:
