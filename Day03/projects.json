@@ -22,5 +22,13 @@
         "target": 10000,
         "start_date": "2026-05-01",
         "end_date": "2026-06-01"
+    },
+    {
+        "id": 1775039156227,
+        "title": "database",
+        "details": "important project for course full stack",
+        "target": 29888,
+        "start_date": "2026-04-01",
+        "end_date": "2026-05-01"
     }
 ]

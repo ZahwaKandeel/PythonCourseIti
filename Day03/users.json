@@ -14,5 +14,21 @@
         "email": "ahmed@iti.com",
         "password": "Ahmed@888",
         "phone": "01009996512"
+    },
+    {
+        "id": "2016cb78-2db5-11f1-9c2e-8c04ba3e7b08",
+        "first_name": "zeina",
+        "last_name": "bassam",
+        "email": "zeina@gmail.com",
+        "password": "Zeina@333",
+        "phone": "01110238863"
+    },
+    {
+        "id": "248915cf-2dbe-11f1-a5c6-8c04ba3e7b08",
+        "first_name": "shaker",
+        "last_name": "kandeel",
+        "email": "shaker@iti.com",
+        "password": "Shaker@55",
+        "phone": "01009996512"
     }
 ]

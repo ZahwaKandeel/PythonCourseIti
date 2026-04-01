@@ -1,7 +1,7 @@
 from Day03.read_from_json import read_data
 
 def login():
-    users = read_data()
+    users = read_data('users.json')
 
     email = input("Enter your email: ")
     password = input("Enter your password: ")

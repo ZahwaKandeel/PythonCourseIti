@@ -1,17 +1,9 @@
 import json
 
-def read_data():
+def read_data(filename):
     try:
-        with open('users.json', 'r') as f:
+        with open(filename, 'r') as f:
             return json.load(f)
-
     except Exception as e:
-        return []
-
-def read_project():
-    try:
-        with open('projects.json', 'r') as f:
-            return json.load(f)
-
-    except Exception as e:
+        print(f"Error reading data: {e}")
         return []

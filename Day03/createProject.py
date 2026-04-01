@@ -1,7 +1,7 @@
 import time
 from datetime import datetime
-from Day03.read_from_json import read_project
-from Day03.save_to_json import save_project
+from Day03.read_from_json import read_data
+from Day03.save_to_json import save_data
 
 def valid_title():
     while True:
@@ -57,7 +57,7 @@ def generate_project_id():
     return int(time.time() * 1000)
 
 def create_project():
-    projects = read_project()
+    projects = read_data('projects.json')
 
     project_id = generate_project_id()
     title = valid_title()
@@ -75,6 +75,6 @@ def create_project():
     }
 
     projects.append(project)
-    save_project(projects)
+    save_data(projects, 'projects.json')
 
     print(f"Project created successfully with ID: {project_id}")

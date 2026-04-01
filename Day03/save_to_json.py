@@ -1,15 +1,9 @@
 import json
 
-def save_data(users):
+def save_data(data, filename):
     try:
-        with open('users.json', 'w') as f:
-            json.dump(users, f, indent = 4)
+        with open(filename, 'w') as f:
+            json.dump(data, f, indent=4)
     except Exception as e:
-        return []
-
-def save_project(projects):
-    try:
-        with open('projects.json', 'w') as f:
-            json.dump(projects, f, indent = 4)
-    except Exception as e:
+        print(f"Error saving data: {e}")
         return []

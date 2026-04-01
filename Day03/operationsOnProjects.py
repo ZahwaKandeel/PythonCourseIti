@@ -1,9 +1,9 @@
 from tabulate import tabulate
-from Day03.read_from_json import read_project
-from Day03.save_to_json import save_project
+from Day03.read_from_json import read_data
+from Day03.save_to_json import save_data
 from Day03.createProject import valid_date
 
-projects = read_project()
+projects = read_data('projects.json')
 def view_projects(project=None):
     if not projects:
         print("No projects found")
@@ -42,7 +42,7 @@ def delete_project():
         print("Project not found")
         return
 
-    save_project(updated_projects)
+    save_data(updated_projects, 'projects.json')
     print("Project deleted")
 
 def search_for_project():
@@ -92,7 +92,7 @@ def edit_project():
                     else:
                         print("Invalid target, keeping old value")
 
-                save_project(projects)
+                save_data(projects, "projects.json")
                 print("Project updated successfully!")
                 return
 
