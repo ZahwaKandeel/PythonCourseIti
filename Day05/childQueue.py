@@ -52,19 +52,18 @@ q1 = childQueue("q1", 3)
 q1.insert(40)
 q1.insert(50)
 q1.insert(60)
-#q1.insert(70)
+#q1.insert(70)   #test queue out of range exception
 print(q1.items)
 
 q2 = childQueue("q2", 2)
 q2.insert(90)
 print(q2.items)
 
-q1.pop()
-test_q1 = childQueue.get_queue("q1")
-print("Testtt",test_q1.items)
+test1 = childQueue("A", 3)
+test2 = childQueue("B", 5)
+
+print(childQueue.get_queue("A") is test1)
+print(childQueue.get_queue("A") is test2)
 
 childQueue.save()
 childQueue.load()
-
-z = childQueue.get_queue("q2")
-print(q2.items)
