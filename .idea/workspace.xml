@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="updates in lab04" />
+    <list default="true" id="a08a1fd3-1193-485a-801e-b55dbe9be32d" name="Changes" comment="add lab04 to separated folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +122,7 @@
       <workItem from="1775001517513" duration="34000" />
       <workItem from="1775030248551" duration="6362000" />
       <workItem from="1775045571518" duration="5612000" />
+      <workItem from="1775052488885" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="restOflab1 and day02 of python course">
       <option name="closed" value="true" />
@@ -227,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775052354668</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add lab04 to separated folder">
+      <option name="closed" value="true" />
+      <created>1775052548046</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1775052548046</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add lab04 to separated folder">
+      <option name="closed" value="true" />
+      <created>1775052666488</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1775052666488</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +279,8 @@
     <MESSAGE value="some updates to the lab03 and lec5 added" />
     <MESSAGE value="q1 &amp; q2 in lab 5" />
     <MESSAGE value="updates in lab04" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates in lab04" />
+    <MESSAGE value="add lab04 to separated folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lab04 to separated folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
