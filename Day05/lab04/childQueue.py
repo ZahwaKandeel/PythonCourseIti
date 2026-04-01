@@ -57,6 +57,7 @@ print(q1.items)
 
 q2 = childQueue("q2", 2)
 q2.insert(90)
+q2.insert(80)
 print(q2.items)
 
 test1 = childQueue("A", 3)
